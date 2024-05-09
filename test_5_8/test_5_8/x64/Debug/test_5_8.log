@@ -1,0 +1,7 @@
+﻿  test.cpp
+  test2.cpp
+  正在生成代码...
+D:\CODE\Cpp_study\test_5_8\test_5_8\test2.cpp(4,5): error C2084: 函数“int main(void)”已有主体
+  D:\CODE\Cpp_study\test_5_8\test_5_8\test.cpp(13,5):
+  参见“main”的前一个定义
+  
